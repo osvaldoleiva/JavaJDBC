@@ -1,6 +1,6 @@
-package cl.sdm.escuela.dao;
+package dao;
 
-import cl.sdm.escuela.modelo.Matricula;
+import modelo.Matricula;
 
 public interface MatriculaDAO extends DAO<Matricula, Long>{
     

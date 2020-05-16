@@ -1,6 +1,6 @@
-package cl.sdm.escuela.dao;
+package dao;
 
-import cl.sdm.escuela.modelo.Profesor;
+import modelo.Profesor;
 
 public interface ProfesorDAO extends DAO<Profesor, Long>{
     

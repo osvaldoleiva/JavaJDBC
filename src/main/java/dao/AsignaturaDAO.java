@@ -1,6 +1,6 @@
-package cl.sdm.escuela.dao;
+package dao;
 
-import cl.sdm.escuela.modelo.Asignatura;
+import modelo.Asignatura;
 
 public interface AsignaturaDAO extends DAO<Asignatura, Long>{
     

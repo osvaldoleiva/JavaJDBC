@@ -1,4 +1,4 @@
-package cl.sdm.escuela.modelo;
+package modelo;
 
 import java.util.Date;
 import java.util.Objects;
